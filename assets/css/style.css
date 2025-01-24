@@ -271,7 +271,6 @@
         padding-top: 10px;
     }
     .cards-container {
-        height: 550px;
         overflow-y: scroll;
         margin: 20px;
         gap: 55px;
